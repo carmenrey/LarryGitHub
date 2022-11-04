@@ -1,3 +1,3 @@
 # Larry Plotter
 
-Larry es un hacker
+Esta saga de libros cuenta la historia de un hacker.
